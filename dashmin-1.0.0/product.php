@@ -1,6 +1,6 @@
 <?php
 session_start();
-include_once('../DBUtil.php');
+include_once('./DBUtil.php');
 
 $dbHelper = new DBUntil();
 
